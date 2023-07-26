@@ -42,7 +42,7 @@
     display: flex;
     flex-direction: row-reverse; 
     border-top: 2px solid rgb(150, 21, 21);
-    height: 500px;
+    height: 900px;
     background-color: #d2f3b4;
     background-image: url("gradient.jpg" ) ;
     background-size: 1400px;
@@ -81,7 +81,7 @@
 
 
         #caja-2 {
-
+            
          max-width: 200px;           
             height: 300px;
             margin: 15px  5px 100px 50px;
@@ -175,9 +175,14 @@
             flex: 1 5 auto;
             border-radius: 25px;
             opacity: 50%;
+           
+            
         }
         #caja-4 {
             width: 100px;
         flex: 1 5 auto;
+        background-image:url(Foto.JPG);
+        background-repeat: no-repeat;
+        background-size: contain;
 
         }
