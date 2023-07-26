@@ -181,8 +181,13 @@
         #caja-4 {
             width: 100px;
         flex: 1 5 auto;
-        background-image:url(Foto.JPG);
-        background-repeat: no-repeat;
-        background-size: contain;
+        
+       
+        }
+
+        #foto1 {
+            background-image:url(Foto.JPG);
+            background-repeat: no-repeat;
+            background-size: contain;
 
         }
